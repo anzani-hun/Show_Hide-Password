@@ -1,1 +1,1 @@
-<img src=".png" alt="jelszó"/>
+<img src="!sample.png" alt="jelszó"/>
